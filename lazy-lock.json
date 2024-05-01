@@ -10,6 +10,7 @@
   "cmp_luasnip": { "branch": "master", "commit": "18095520391186d634a0045dacaa346291096566" },
   "dressing.nvim": { "branch": "master", "commit": "8f4d62b7817455896a3c73cab642002072c114bc" },
   "flash.nvim": { "branch": "main", "commit": "eccef9f34ac332e0f1652d7559fe5cbeab614201" },
+  "fluoromachine.nvim": { "branch": "main", "commit": "b80436877e77d21e4c68f53840dc36621d6a5515" },
   "friendly-snippets": { "branch": "main", "commit": "43727c2ff84240e55d4069ec3e6158d74cb534b6" },
   "gitsigns.nvim": { "branch": "main", "commit": "19654d963e4f1d6d6543f38ab9802092393508c2" },
   "indent-blankline.nvim": { "branch": "master", "commit": "3d26bc7ab0e8dfddc0f40c840a8f925dddc2fef6" },
